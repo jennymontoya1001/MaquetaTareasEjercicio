@@ -14,12 +14,6 @@ export const ListarTarea = () => {
                     >
                         borrar
                     </button>
-                    <button
-                        className="btn btn-warning btm-sm float-end mx-2"
-
-                    >
-                        Editar
-                    </button>
                     <a
                         className="btn btn-success btm-sm float-end mx-2"
                         href="/"
