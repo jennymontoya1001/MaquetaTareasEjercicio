@@ -9,11 +9,11 @@ export const Container = () => {
             <hr />
             <div className="row">
 
-                <div div className="col-8">
+                <div className="col-8">
                     <ListarTarea />
                 </div>
 
-                <div div className="col-4">
+                <div className="col-4">
                     <AgregarTarea />
                 </div>
 
